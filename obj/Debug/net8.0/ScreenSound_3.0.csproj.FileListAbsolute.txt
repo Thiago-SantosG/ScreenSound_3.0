@@ -1,0 +1,14 @@
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\bin\Debug\net8.0\ScreenSound_3.0.exe
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\bin\Debug\net8.0\ScreenSound_3.0.deps.json
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\bin\Debug\net8.0\ScreenSound_3.0.runtimeconfig.json
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\bin\Debug\net8.0\ScreenSound_3.0.dll
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\bin\Debug\net8.0\ScreenSound_3.0.pdb
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\obj\Debug\net8.0\ScreenSound_3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\obj\Debug\net8.0\ScreenSound_3.0.AssemblyInfoInputs.cache
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\obj\Debug\net8.0\ScreenSound_3.0.AssemblyInfo.cs
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\obj\Debug\net8.0\ScreenSound_3.0.csproj.CoreCompileInputs.cache
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\obj\Debug\net8.0\ScreenSound_3.0.dll
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\obj\Debug\net8.0\refint\ScreenSound_3.0.dll
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\obj\Debug\net8.0\ScreenSound_3.0.pdb
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\obj\Debug\net8.0\ScreenSound_3.0.genruntimeconfig.cache
+C:\Users\thiagogomes\Desktop\Alu\ScreenSound_3.0\ScreenSound_3.0\obj\Debug\net8.0\ref\ScreenSound_3.0.dll
